@@ -106,20 +106,11 @@ A web-based blood donation management system that connects donors, recipients, a
 - XSS protection
 - Admin authentication
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the MIT License.
-
 ## Contact
 
 For any queries or support, please use the contact form on the website.
 
 ## Acknowledgments
 
-- Thanks to all contributors
 - Inspired by the need for efficient blood donation management
 - Built with ❤️ for saving lives
